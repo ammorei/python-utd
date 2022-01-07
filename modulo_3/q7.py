@@ -6,7 +6,7 @@ Use procedimento para processar e função para impressão.
 numeros = []
 
 for num in range(8):
-  numeros.append(int(input("Digite um Número: ")))
+  numeros.append(int(input("Digite 8 Números: ")))
 
 numeros.sort()
 #n_i = numeros[0]
